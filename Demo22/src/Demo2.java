@@ -5,8 +5,6 @@ public class Demo2 {
 System.out.println("done");
 System.out.println("second line");
 System.out.println("third line");
-System.out.println("fourth line");
-System.out.println("fifth line");
 	}
 
 }
